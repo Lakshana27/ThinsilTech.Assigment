@@ -35,8 +35,8 @@
 
 
 ### 4. Acknowledgments
-[ILovePDF] (https://developer.ilovepdf.com/)
-tkinter
+* [ILovePDF](https://developer.ilovepdf.com/)
+* tkinter
 
 Feel free to contribute, report issues, or suggest enhancements to this project.
 
