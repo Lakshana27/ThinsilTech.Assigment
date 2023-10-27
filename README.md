@@ -20,7 +20,7 @@ PDF Processor is a Python application that allows you to perform various operati
    ``` python
    api_key = 'your_public_key_here'
  3. Run the application by executing the following command:
-   ```bash
+   ``` python
    python main.py
 
 ### Use the GUI to select PDF files and perform various PDF operations.
