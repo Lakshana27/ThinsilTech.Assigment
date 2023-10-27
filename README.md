@@ -14,32 +14,28 @@ PDF Processor is a Python application that allows you to perform various operati
 ### Getting Started
 
 1. Clone or download this repository to your local machine.
+2. Get you ilovepdf Api key in (https://developer.ilovepdf.com/)
+3. Create a file named `creds.py` in the same directory and add your ILovePDF public key as follows:
 
-2. Create a file named `creds.py` in the same directory and add your ILovePDF public key as follows:
-
-   ``` python
+   ```python
    api_key = 'your_public_key_here'
- 3. Run the application by executing the following command:
-   ``` python
-   python main.py
+Run the application using Python:
+
+> python main.py
 
 ### Use the GUI to select PDF files and perform various PDF operations.
 
-Features:
+**Features:**
 Set Output Folder: Choose the destination folder for output files.
 Merge PDFs: Combine multiple PDF files into a single PDF.
 Split PDFs: Split a PDF file into multiple individual pages.
 Unlock PDF: Remove password protection from a PDF file.
 Extract Text from PDF: Extract text content from a PDF.
 Convert Images to PDF: Convert image files (JPG, PNG, TIFF) into a PDF document.
-Screenshots
-Application Screenshot
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-ILovePDF
+### Acknowledgments
+[ILovePDF] (https://developer.ilovepdf.com/)
 tkinter
 Feel free to contribute, report issues, or suggest enhancements to this project.
 
