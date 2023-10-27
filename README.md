@@ -19,13 +19,13 @@ PDF Processor is a Python application that allows you to perform various operati
 
    ``` python
    api_key = 'your_public_key_here'
-Run the application using Python:
+ 3. Run the application by executing the following command:
+   ```bash
+   python main.py
 
+### Use the GUI to select PDF files and perform various PDF operations.
 
-python main.py
-Use the GUI to select PDF files and perform various PDF operations.
-
-Features
+Features:
 Set Output Folder: Choose the destination folder for output files.
 Merge PDFs: Combine multiple PDF files into a single PDF.
 Split PDFs: Split a PDF file into multiple individual pages.
